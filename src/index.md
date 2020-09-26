@@ -22,6 +22,10 @@ Yes.
 ### When I lose my unused movement from becoming engaged, do I lose ALL my movement, even the ones I didn't use ?
 No, if you did part of a standard move to get into engagement, you lose the rest of it, but you can still boost if you didn't boost already to get out of engagement. <wot:426288556902842368/713498072336040008>
 
+## Page 63, Gravity
+### What happens if a mech with Immunity to the Slowed condition enters a zero-g area?
+They are still Slowed as they do not have a propulsion system.<wot:426288556902842368/757424696349294603>
+
 ## Page 64, Attacks
 ### Can tech attacks crit? / What happens when a tech attack crits?
 Nothing. Only melee and ranged attacks can land a critical hit.
