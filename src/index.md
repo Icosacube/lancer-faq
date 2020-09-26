@@ -186,3 +186,7 @@ No. Strictly speaking, combat actions such as Stabilize don't really "exist" out
 ## Multi-license Interactions
 ### Does the Tortuga's Sentinel trait give Accuracy to the contested attack roll from Stasis Bolt?
 Yes.<wot:426288556902842368/703379534715682816>
+
+## The Long Rim, Page 59, HA Sunzi
+### Errata #3
+The Warp grenades should affect any characters in the blast area, not just one.<wot:441336855951048725/727938103209361478>
